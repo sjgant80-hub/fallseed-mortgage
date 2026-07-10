@@ -42,7 +42,7 @@ Mortgage broking · intermediary (UK).
 - No telemetry, no analytics, no tracking
 - All data stays on your device (IDB) — nothing posted unless you wire an external LLM
 - Works offline once installed as PWA
-- One-time payment; upgrades optional
+- access; upgrades optional
 
 ## Cosmology
 
